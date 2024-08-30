@@ -8,7 +8,7 @@ I'm a passionate Fullstack Web Developer from Barcelona with a strong love for f
 - 🌟 Passionate about: **UI/UX design**, **Web animations**, and **Responsive web design**
 - 🌱 Currently learning: JavaScript frameworks
 - 💼 Open to: **Freelance opportunities** and **collaborations**
-- ⚡ Fun fact: I love Linux and exploring the latest web technologies.
+- ⚡ Fun fact: I love Linux and learning new things.
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, + Coming soon...
